@@ -1,16 +1,18 @@
-## Hi there 👋
+Sou um desenvolvedor backend apaixonado por criar soluções eficientes e escaláveis utilizando **TypeScript**. Tenho experiência com diversas tecnologias e busco sempre aprimorar minhas habilidades e aprender novas ferramentas.
 
-<!--
-**albertojcvs/albertojcvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologias e Ferramentas
 
-Here are some ideas to get you started:
+- **Linguagem:** TypeScript, JavaScript, Python, Java
+- **Frameworks:** Node.js, NestJS, Express.js
+- **Banco de Dados:** PostgreSQL, MySQL, Dynamo
+- **ORMs:** TypeORM, Prisma
+- **Cloud & DevOps:** AWS (Lambda, S3, Cognito, API Gateway), Docker
+- **Testes:** Jest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre Mim
+
+- 💡 Sempre em busca de aprender algo novo.
+- 🔍 Focado em boas práticas de código, arquitetura e performance.
+- 📖 Interesse em arquiteturas escaláveis, microsserviços e computação em nuvem.
+- 💬 Aberto para discutir sobre boas práticas, padrões de projeto e novas tecnologias.
+
